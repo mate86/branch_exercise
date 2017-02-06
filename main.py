@@ -16,3 +16,9 @@ def multiple_numbers(first, second):
     print(result)
 
 multiple_numbers(3, 5)
+
+def divide_numbers(first, second):
+    result = first / second
+    print(result)
+
+divide_numbers(30, 5)
