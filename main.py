@@ -12,7 +12,7 @@ def substract_numbers(first, second):
 substract_numbers(10, 6)
 
 def multiple_numbers(first, second):
-    result = first * second
+    result = float(first * second)
     print(result)
 
 multiple_numbers(3, 5)
